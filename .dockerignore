@@ -1,0 +1,10 @@
+app/.angular/
+app/dist/
+app/node_modules/
+app/zcs-swd-*.json
+.github/
+.data
+*.md
+run.sh
+docker-compose.yml
+.gitignore

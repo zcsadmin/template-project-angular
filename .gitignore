@@ -1,0 +1,10 @@
+.vscode/
+
+# Ignore .data directory but exclude .bashrc file
+.data/*
+!.data/bob-s-home
+.data/bob-s-home/*
+!.data/bob-s-home/.bashrc
+
+# Ignore local environment configuration file
+app/src/environments/environment.local.ts
